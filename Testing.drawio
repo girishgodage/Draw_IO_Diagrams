@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T14:27:33.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="05yZBpSdSikglEnCkrzH" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T14:36:21.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fR11jN1BROL2uFk6Ga1S" version="24.7.1" type="github">
   <diagram name="Page-1" id="gpiY9hRYKgkUtshMCGj8">
     <mxGraphModel dx="1389" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -8,34 +8,43 @@
           <mxGeometry x="10" width="1070" height="820" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="78" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="198" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="318" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="400" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="438" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="558" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="640" width="80" height="80" as="geometry" />
+          <mxGeometry x="50" y="678" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-7" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="60" width="40" height="40" as="geometry" />
+          <mxGeometry x="70" y="98" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="185.6" width="40" height="28.8" as="geometry" />
+          <mxGeometry x="70" y="223.6" width="40" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="sol8VF6ZIaXaga_Dx4t6-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Software_as_a_Service.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="300" width="40" height="40" as="geometry" />
+          <mxGeometry x="70" y="338" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sol8VF6ZIaXaga_Dx4t6-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="70" y="417.09000000000003" width="40" height="45.82" as="geometry" />
+        <mxCell id="sol8VF6ZIaXaga_Dx4t6-11" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workspaces;fillColor=#B3B3B3;gradientColor=#808080;gradientDirection=north;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="455.09000000000003" width="40" height="45.82" as="geometry" />
+        </mxCell>
+        <mxCell id="sol8VF6ZIaXaga_Dx4t6-13" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.worker;fillColor=#808080;gradientColor=none;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="577" width="40" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sol8VF6ZIaXaga_Dx4t6-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Files.svg;dashed=0;strokeColor=default;verticalAlign=top;fontFamily=Helvetica;fontColor=default;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="70" y="696.13" width="40" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="sol8VF6ZIaXaga_Dx4t6-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="290" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
